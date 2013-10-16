@@ -1,0 +1,11 @@
+{
+  "name": "grayscott",
+  "version": "0.1.0",
+  "author": "Andreas Köberle <koeberle@gmail.com>",
+  "description": "Reaction-Diffusion by the Gray-Scott Model",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eskimobood/grayscott.git"
+  },
+  "license": "MIT"
+}
